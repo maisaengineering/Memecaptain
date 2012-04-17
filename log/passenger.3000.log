@@ -1,0 +1,2 @@
+2012/04/17 17:39:36 [crit] 4144#0: *321 open() "/tmp/passenger-standalone.30619/client_body_temp/0000000004" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "POST /upload HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
+2012/04/17 17:39:36 [crit] 4144#0: *321 open() "/tmp/passenger-standalone.30619/client_body_temp/0000000005" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "POST /upload HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/"
