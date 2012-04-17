@@ -1,0 +1,1 @@
+/home/maisa/Documents/workspace/meme_captain/script/thumb_sprites.rb
